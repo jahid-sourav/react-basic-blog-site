@@ -1,0 +1,6 @@
+.time-spent {
+  @apply p-3 rounded-md border border-slate-400 shadow bg-black/[.05];
+}
+.time-spent p {
+  @apply text-center font-semibold text-lg text-blue-600;
+}

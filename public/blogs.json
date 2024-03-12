@@ -1,0 +1,52 @@
+[
+  {
+    "Id": "123456",
+    "cover_image": "https://images.unsplash.com/photo-1706264337427-fbd7405c3483",
+    "title": "The Secret Garden of Stars",
+    "author": "Evelyn Rosewood",
+    "author_img": "https://images.unsplash.com/photo-1634224111343-9f501daf4184",
+    "posted_date": "2024-03-12",
+    "reading_time": 25,
+    "hashtags": ["fantasy", "magic", "adventure"]
+  },
+  {
+    "Id": "789012",
+    "cover_image": "https://plus.unsplash.com/premium_photo-1661558928174-a04b38beba2f",
+    "title": "Echoes of Eternity",
+    "author": "Maxwell Evergreen",
+    "author_img": "https://images.unsplash.com/photo-1607990281513-2c110a25bd8c",
+    "posted_date": "2024-03-11",
+    "reading_time": 30,
+    "hashtags": ["mystery", "thriller", "suspense"]
+  },
+  {
+    "Id": "345678",
+    "cover_image": "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d",
+    "title": "Whispers in the Wind",
+    "author": "Serena Nightshade",
+    "author_img": "https://images.unsplash.com/photo-1556157382-97eda2d62296",
+    "posted_date": "2024-03-10",
+    "reading_time": 20,
+    "hashtags": ["romance", "love", "heartbreak"]
+  },
+  {
+    "Id": "901234",
+    "cover_image": "https://images.unsplash.com/photo-1483058712412-4245e9b90334",
+    "title": "The Phantom's Legacy",
+    "author": "Victor Darkwood",
+    "author_img": "https://images.unsplash.com/photo-1611199340099-91a595a86812",
+    "posted_date": "2024-03-09",
+    "reading_time": 35,
+    "hashtags": ["ghosts", "haunted", "supernatural"]
+  },
+  {
+    "Id": "567890",
+    "cover_image": "https://plus.unsplash.com/premium_photo-1663047060215-eaf3846564a7",
+    "title": "Beyond the Horizon",
+    "author": "Aurora Skystream",
+    "author_img": "https://images.unsplash.com/photo-1600188768149-f27db3bc6ef9",
+    "posted_date": "2024-03-08",
+    "reading_time": 40,
+    "hashtags": ["sciencefiction", "space", "exploration"]
+  }
+]
